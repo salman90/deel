@@ -1,0 +1,14 @@
+li {
+    background-color: #f0f0f0;
+    padding: 8px;
+    margin-bottom: 4px;
+    border-radius: 4px;
+    width: 30vw;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+li:hover {
+    background-color: #e0e0e0;
+}
